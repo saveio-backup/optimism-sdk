@@ -1,6 +1,6 @@
-## ethers
+## Optimism SDK
 
-ethers client for ethereum in optimism environment
+https://sdk.optimism.io
 
 ```
 Account #0: 0xf39fd6e51aad88f6f4ce6ab8827279cfffb92266
