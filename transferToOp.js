@@ -17,7 +17,7 @@ const optimismSDK = require("@eth-optimism/sdk");
   const tx = {
     from: from,
     to: to,
-    value: ethers.utils.hexlify(1),
+    value: BigInt(100 * Math.pow(10, 18)),
   };
 
 
